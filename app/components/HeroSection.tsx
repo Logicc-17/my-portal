@@ -35,7 +35,7 @@ const HeroSection = () => {
             className="mb-6"
           >
           <span className="text-xs tracking-[0.3em] uppercase text-muted-foreground font-body">
-              Themab — Software Engineer & Systems Builder
+              Themba Longwe— Software Engineer & Systems Builder
             </span>
           </motion.div>
 
