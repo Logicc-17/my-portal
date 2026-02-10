@@ -13,7 +13,7 @@ const projects = [
     subtitle: "Automated deployment pipeline",
     description: "End-to-end CI/CD system that reduced manual deployment time by 90%. Built with Python schedulers, Docker, and cloud-native tooling.",
     tech: ["Python", "Docker", "PostgreSQL", "CI/CD"],
-    image: project1,
+    image: project3,
     year: "2025",
   },
   {
@@ -29,7 +29,7 @@ const projects = [
     subtitle: "Enterprise security infrastructure",
     description: "Designed and implemented zero-trust network architecture with automated threat detection and response protocols.",
     tech: ["Network Security", "Linux", "Monitoring", "Automation"],
-    image: project3,
+    image: project2,
     year: "2024",
   },
 ];
