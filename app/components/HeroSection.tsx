@@ -46,7 +46,7 @@ const HeroSection = () => {
               animate={{ y: 0 }}
               transition={{ duration: 1.2, delay: 0.8, ease: [0.16, 1, 0.3, 1] }}
             >
-              I build systems
+              I build systems,
             </motion.h1>
           </div>
 
